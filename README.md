@@ -10,7 +10,7 @@ A module for Node-RED that you can use to get data from wifi power meter of Pilo
   * [Tutorial](#tutorial)
 * [About IAMMETER](#about-iammeter)
 
-# node-red-contrib-iammeter
+# node-red-contrib-zhpilot
 
 This is a node introduction for the [ZHPILOT](www.zhpilot.com/)
 
