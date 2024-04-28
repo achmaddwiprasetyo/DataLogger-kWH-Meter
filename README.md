@@ -12,14 +12,14 @@ A module for Node-RED that you can use to get data from wifi power meter of Pilo
 
 # node-red-contrib-iammeter
 
-This is a node introduction for the [IAMMETER](https://www.iammeter.com/)
+This is a node introduction for the [ZHPILOT](www.zhpilot.com/)
 
 IAMMETER provides both a single-phase and three-phase energy meter. They are all bi-directional, din rail, base on WiFi.
 You can use them to meter the energy consumption, especially in the application of solar PV systems.
 
-[WEM3080: single-phase WiFi energy meter](https://www.iammeter.com/products/single-phase-meter)
+[SPM91: Single Phase Energy Meter](https://www.zhpilot.com/din-rail-ac-single-phase-energy-meter-spm91-230v-63a-with-modbus-product/)
 
-[WEM3080T: three-phase WiFi energy meter](https://www.iammeter.com/products/three-phase-meter)
+[SPM93: Three Phase Multifunction Energy Meter](https://www.zhpilot.com/din-rail-ac-three-phase-multifunction-energy-meter-spm93-for-measure-kwh-7-1-digits-lcd-display-with-modbus-protocol-product/)
 
 
 ## Installation
