@@ -14,8 +14,8 @@ A module for Node-RED that you can use to get data from wifi power meter of Pilo
 
 This is a node introduction for the [ZHPILOT](www.zhpilot.com/)
 
-IAMMETER provides both a single-phase and three-phase energy meter. They are all bi-directional, din rail, base on WiFi.
-You can use them to meter the energy consumption, especially in the application of solar PV systems.
+ZHPILOT provides both a single-phase and three-phase energy meter. They are all bi-directional, din rail.
+You can use them to meter the energy consumption.
 
 [SPM91: Single Phase Energy Meter](https://www.zhpilot.com/din-rail-ac-single-phase-energy-meter-spm91-230v-63a-with-modbus-product/)
 
