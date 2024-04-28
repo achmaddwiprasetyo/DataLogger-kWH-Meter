@@ -34,7 +34,7 @@ May also be installed via npm:
 
 
 ```json
-   [234.7,9.99,1068,21.063,20.667,49.99,1]
+   [0,0,22292,0,0,0,0,0,0,0,0,5001,1000,0,0,0,0,0,0,0,0,0,0,0,0]
 ```
 [voltage, current, power,import energy, export energy]
 
