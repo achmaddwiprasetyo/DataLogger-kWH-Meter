@@ -8,7 +8,7 @@ A module for Node-RED that you can use to get data from wifi power meter of Pilo
 * [Monitor your solar PV system in Node\-Red](#monitor-your-solar-pv-system-in-node-red)
   * [Effect &amp;&amp; Demo](#effect--demo)
   * [Tutorial](#tutorial)
-* [About ZHPILOT](#about-iammeter)
+* [About ZHPILOT](#about-zhpilot)
 
 # node-red-contrib-zhpilot
 
@@ -82,7 +82,7 @@ Node-RED in Homeassistant:  [http://ha.iammeter.com:18123/nodered  ](http://ha.i
 
 
 
-# About IAMMETER
+# About ZHPILOT
 
 [Monitor your energy consumption in IAMMETER-Cloud](https://www.iammeter.com/applications)
 
