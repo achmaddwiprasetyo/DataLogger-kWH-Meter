@@ -84,7 +84,5 @@ Node-RED in Homeassistant:  [http://ha.iammeter.com:18123/nodered  ](http://ha.i
 
 # About ZHPILOT
 
-[Monitor your energy consumption in IAMMETER-Cloud](https://www.iammeter.com/applications)
-
-[Integrate IAMMETER energy meter to third-party platforms](https://www.iammeter.com/docs/homeassistant#5-integrate-iammeter-energy-meter-to-third-party-platforms-other-than-home-assistant)
+[Contact US](https://www.zhpilot.com/contact-us/)
 
