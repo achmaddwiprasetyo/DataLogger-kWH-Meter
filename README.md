@@ -3,8 +3,8 @@ A module for Node-RED that you can use to get data from wifi power meter of Pilo
 
 * [node\-red\-contrib\-iammeter](#node-red-contrib-iammeter)
   * [Installation](#installation)
-  * [Local Output: Single\-phase electric energy meter (WEM3080)](#local-output-single-phase-electric-energy-meter-wem3080)
-  * [Local Output: three\-phase electric energy meter(WEM3080T)](#local-output-three-phase-electric-energy-meterwem3080t)
+  * [Local Output: Single\-phase electric energy meter (SPM91)](#local-output-single-phase-electric-energy-meter-SPM91)
+  * [Local Output: three\-phase electric energy meter(SPM93)](#local-output-three-phase-electric-energy-meter-SPM93)
 * [Monitor your solar PV system in Node\-Red](#monitor-your-solar-pv-system-in-node-red)
   * [Effect &amp;&amp; Demo](#effect--demo)
   * [Tutorial](#tutorial)
