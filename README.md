@@ -8,7 +8,7 @@ A module for Node-RED that you can use to get data from wifi power meter of Pilo
 * [Monitor your solar PV system in Node\-Red](#monitor-your-solar-pv-system-in-node-red)
   * [Effect &amp;&amp; Demo](#effect--demo)
   * [Tutorial](#tutorial)
-* [About IAMMETER](#about-iammeter)
+* [About ZHPILOT](#about-iammeter)
 
 # node-red-contrib-zhpilot
 
@@ -30,7 +30,7 @@ May also be installed via npm:
 
 `npm install node-red-contrib-iammeter`
 
-## Local Output: Single-phase electric energy meter (WEM3080)
+## Local Output: Single-phase electric energy meter (SPM91)
 
 
 ```json
@@ -43,7 +43,7 @@ unit: voltage [V], current [A], power [W],import energy [kWh], export energy [kW
 
 
 
-## Local Output: three-phase electric energy meter(WEM3080T)
+## Local Output: three-phase electric energy meter (SPM93)
 
 
 ```json
